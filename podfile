@@ -1,0 +1,7 @@
+target ‘AFNetworkingYYCache’ do
+
+pod ‘AFNetworking’
+pod ‘YYCache’
+
+
+end
